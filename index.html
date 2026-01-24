@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teoria DGT - Aprende y Aprueba
+  </title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <div class="header-content">
+        <div class="logo">
+          <div class="logo-icon">
+            <i class="fas fa-car"></i>
+            <i class="fas fa-book"></i>
+          </div>
+          <h1>Teoria DGT</h1>
+        </div>
+        <div class="user-menu">
+          <div class="user-avatar">
+            <i class="fas fa-user"></i>
+          </div>
+          <div class="user-stats">
+            <span class="streak">
+              <i class="fas fa-fire"></i> 0
+            </span>
+            <span class="coins">
+              <i class="fas fa-star"></i> 0
+            </span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <section class="hero-section">
+        <div class="hero-content">
+          <h2>Tu camino al carnet comienza aquí</h2>
+          <p>Aprende las áreas de la teoría DGT con lecciones interactivas estilo Duolingo</p>
+          <button class="btn-start" id="startLearning">
+            <i class="fas fa-play-circle"></i> Comenzar aprendizaje
+          </button>
+        </div>
+        <div class="hero-progress">
+          <div class="progress-circle" data-progress="0">
+            <span>0%</span>
+          </div>
+          <p>Progreso general</p>
+        </div>
+      </section>
+
+      <section class="tree-section" id="learningTree">
+        <h2><i class="fas fa-sitemap"></i> Árbol de Aprendizaje</h2>
+        <p class="section-subtitle">Domina las áreas del examen DGT paso a paso</p>
+        <div class="tree-container" id="treeContainer">
+          <div class="tree-loading">
+            <i class="fas fa-spinner fa-spin"></i> Cargando temas...
+          </div>
+        </div>
+      </section>
+
+      <section class="quick-practice">
+        <h2><i class="fas fa-bolt"></i> Práctica Rápida</h2>
+        <div class="practice-cards">
+          <div class="practice-card" data-type="señales">
+            <i class="fas fa-traffic-light"></i>
+            <h3>Señales</h3>
+            <p>10 preguntas</p>
+          </div>
+          <div class="practice-card" data-type="test">
+            <i class="fas fa-file-alt"></i>
+            <h3>Test rápido</h3>
+            <p>5 minutos</p>
+          </div>
+          <div class="practice-card" data-type="repaso">
+            <i class="fas fa-redo"></i>
+            <h3>Repaso</h3>
+            <p>Temas débiles</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <nav class="footer-nav">
+        <a href="#" class="nav-item active">
+          <i class="fas fa-home"></i>
+          <span>Inicio</span>
+        </a>
+        <a href="#" class="nav-item">
+          <i class="fas fa-graduation-cap"></i>
+          <span>Aprender</span>
+        </a>
+        <a href="#" class="nav-item">
+          <i class="fas fa-chart-line"></i>
+          <span>Progreso</span>
+        </a>
+        <a href="#" class="nav-item">
+          <i class="fas fa-trophy"></i>
+          <span>Logros</span>
+        </a>
+        <a href="#" class="nav-item">
+          <i class="fas fa-user"></i>
+          <span>Perfil</span>
+        </a>
+      </nav>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
