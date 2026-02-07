@@ -15,79 +15,79 @@
   --warning: #FF9800;
   --danger: #F44336;
 
-  /* Colores para degradados de secciones (36 secciones) */
-  --seccion-1-start: #2196F3; /* Azul - INTRODUCCIÓN */
-  --seccion-1-end: #64B5F6;
-  --seccion-2-start: #FF9800; /* Naranja - TIPOS DE VEHÍCULOS */
-  --seccion-2-end: #FFB74D;
-  --seccion-3-start: #F44336; /* Rojo - VÍAS */
-  --seccion-3-end: #EF5350;
-  --seccion-4-start: #E91E63; /* Rosa - CARRILES ESPECIALES */
-  --seccion-4-end: #F06292;
-  --seccion-5-start: #9C27B0; /* Púrpura - DISTANCIA SEGURIDAD */
-  --seccion-5-end: #BA68C8;
-  --seccion-6-start: #673AB7; /* Índigo - VELOCIDADES */
-  --seccion-6-end: #9575CD;
-  --seccion-7-start: #3F51B5; /* Azul oscuro - PRIORIDAD */
-  --seccion-7-end: #7986CB;
-  --seccion-8-start: #2196F3; /* Azul - MANIOBRAS */
-  --seccion-8-end: #64B5F6;
-  --seccion-9-start: #03A9F4; /* Cian claro - INMOVILIZACIONES */
-  --seccion-9-end: #4FC3F7;
-  --seccion-10-start: #00BCD4; /* Cian - SEÑALES */
-  --seccion-10-end: #4DD0E1;
-  --seccion-11-start: #009688; /* Verde azulado - SEMÁFOROS */
-  --seccion-11-end: #4DB6AC;
-  --seccion-12-start: #4CAF50; /* Verde - SEÑALES VERTICALES */
-  --seccion-12-end: #81C784;
-  --seccion-13-start: #8BC34A; /* Verde claro - MARCAS VIALES */
-  --seccion-13-end: #AED581;
-  --seccion-14-start: #CDDC39; /* Lima - LUCES */
-  --seccion-14-end: #DCE775;
-  --seccion-15-start: #FFC107; /* Ámbar - TRANSPORTE PERSONAS */
-  --seccion-15-end: #FFD54F;
-  --seccion-16-start: #FF9800; /* Naranja - TRANSPORTE MERCANCÍAS */
-  --seccion-16-end: #FFB74D;
-  --seccion-17-start: #FF5722; /* Naranja oscuro - I.T.V. */
-  --seccion-17-end: #FF8A65;
-  --seccion-18-start: #795548; /* Marrón - DOCUMENTACIÓN */
-  --seccion-18-end: #A1887F;
-  --seccion-19-start: #607D8B; /* Azul grisáceo - PERMISO POR PUNTOS */
-  --seccion-19-end: #90A4AE;
-  --seccion-20-start: #9E9E9E; /* Gris - FACTORES EN ACCIDENTE */
-  --seccion-20-end: #E0E0E0;
-  --seccion-21-start: #795548; /* Marrón - GRUPOS VULNERABLES */
-  --seccion-21-end: #A1887F;
-  --seccion-22-start: #D32F2F; /* Rojo oscuro - FACTORES DE RIESGO */
-  --seccion-22-end: #EF5350;
-  --seccion-23-start: #F44336; /* Rojo - FACTOR: VELOCIDAD */
-  --seccion-23-end: #EF9A9A;
-  --seccion-24-start: #7B1FA2; /* Púrpura oscuro - FACTOR: FATIGA */
-  --seccion-24-end: #BA68C8;
-  --seccion-25-start: #303F9F; /* Índigo oscuro - ENFERMEDADES Y FÁRMACOS */
-  --seccion-25-end: #5C6BC0;
-  --seccion-26-start: #FF9800; /* Naranja - FACTOR: CALOR */
-  --seccion-26-end: #FFCC80;
-  --seccion-27-start: #4CAF50; /* Verde - FACTOR: DISTRACCIONES */
-  --seccion-27-end: #A5D6A7;
-  --seccion-28-start: #D32F2F; /* Rojo - FACTOR: ALCOHOL */
-  --seccion-28-end: #EF9A9A;
-  --seccion-29-start: #1976D2; /* Azul - SEGURIDAD ACTIVA */
-  --seccion-29-end: #64B5F6;
-  --seccion-30-start: #0288D1; /* Azul claro - SEGURIDAD PASIVA */
-  --seccion-30-end: #4FC3F7;
-  --seccion-31-start: #0097A7; /* Verde azulado - SEGURIDAD PREVENTIVA */
-  --seccion-31-end: #26C6DA;
-  --seccion-32-start: #388E3C; /* Verde oscuro - SISTEMAS ADAS */
-  --seccion-32-end: #66BB6A;
-  --seccion-33-start: #D32F2F; /* Rojo - COMPORTAMIENTO EN ACCIDENTE */
-  --seccion-33-end: #F44336;
-  --seccion-34-start: #5D4037; /* Marrón oscuro - MECÁNICA */
-  --seccion-34-end: #8D6E63;
-  --seccion-35-start: #00796B; /* Verde azulado oscuro - TÉCNICAS CONDUCCIÓN */
-  --seccion-35-end: #26A69A;
-  --seccion-36-start: #689F38; /* Verde oliva - DISTINTIVOS MEDIOAMBIENTALES */
-  --seccion-36-end: #9CCC65;
+ /* Colores para degradados de secciones (36 secciones) */
+  --seccion-1-start: #002330; /* Azul oscuro - INTRODUCCIÓN */
+  --seccion-1-end: #00849e;
+  --seccion-2-start: #0A9396; /* Turquesa - TIPOS DE VEHÍCULOS */
+  --seccion-2-end: #94D2BD;
+  --seccion-3-start: #E9D8A6; /* Amarillo claro - VÍAS */
+  --seccion-3-end: #EE9B00;
+  --seccion-4-start: #CA6702; /* Naranja - CARRILES ESPECIALES */
+  --seccion-4-end: #d43710;
+  --seccion-5-start: #AE2012; /* Rojo oscuro - DISTANCIA SEGURIDAD */
+  --seccion-5-end: #9B2226;
+  --seccion-6-start: #AE2012; /* Rojo oscuro - VELOCIDADES */
+  --seccion-6-end: #BB3E03;
+  --seccion-7-start: #CA6702; /* Naranja - PRIORIDAD */
+  --seccion-7-end: #EE9B00;
+  --seccion-8-start: #E9D8A6; /* Amarillo claro - MANIOBRAS */
+  --seccion-8-end: #94D2BD;
+  --seccion-9-start: #0A9396; /* Turquesa - INMOVILIZACIONES */
+  --seccion-9-end: #005F73;
+  --seccion-10-start: #001219; /* Azul oscuro - SEÑALES */
+  --seccion-10-end: #005F73;
+  --seccion-11-start: #0A9396; /* Turquesa - SEMÁFOROS */
+  --seccion-11-end: #94D2BD;
+  --seccion-12-start: #E9D8A6; /* Amarillo claro - SEÑALES VERTICALES */
+  --seccion-12-end: #EE9B00;
+  --seccion-13-start: #CA6702; /* Naranja - MARCAS VIALES */
+  --seccion-13-end: #BB3E03;
+  --seccion-14-start: #AE2012; /* Rojo oscuro - LUCES */
+  --seccion-14-end: #9B2226;
+  --seccion-15-start: #AE2012; /* Rojo oscuro - TRANSPORTE PERSONAS */
+  --seccion-15-end: #BB3E03;
+  --seccion-16-start: #CA6702; /* Naranja - TRANSPORTE MERCANCÍAS */
+  --seccion-16-end: #EE9B00;
+  --seccion-17-start: #E9D8A6; /* Amarillo claro - I.T.V. */
+  --seccion-17-end: #94D2BD;
+  --seccion-18-start: #0A9396; /* Turquesa - DOCUMENTACIÓN */
+  --seccion-18-end: #005F73;
+  --seccion-19-start: #001219; /* Azul oscuro - PERMISO POR PUNTOS */
+  --seccion-19-end: #005F73;
+  --seccion-20-start: #0A9396; /* Turquesa - FACTORES EN ACCIDENTE */
+  --seccion-20-end: #94D2BD;
+  --seccion-21-start: #E9D8A6; /* Amarillo claro - GRUPOS VULNERABLES */
+  --seccion-21-end: #EE9B00;
+  --seccion-22-start: #CA6702; /* Naranja - FACTORES DE RIESGO */
+  --seccion-22-end: #BB3E03;
+  --seccion-23-start: #AE2012; /* Rojo oscuro - FACTOR: VELOCIDAD */
+  --seccion-23-end: #9B2226;
+  --seccion-24-start: #AE2012; /* Rojo oscuro - FACTOR: FATIGA */
+  --seccion-24-end: #BB3E03;
+  --seccion-25-start: #CA6702; /* Naranja - ENFERMEDADES Y FÁRMACOS */
+  --seccion-25-end: #EE9B00;
+  --seccion-26-start: #E9D8A6; /* Amarillo claro - FACTOR: CALOR */
+  --seccion-26-end: #94D2BD;
+  --seccion-27-start: #0A9396; /* Turquesa - FACTOR: DISTRACCIONES */
+  --seccion-27-end: #005F73;
+  --seccion-28-start: #001219; /* Azul oscuro - FACTOR: ALCOHOL */
+  --seccion-28-end: #005F73;
+  --seccion-29-start: #0A9396; /* Turquesa - SEGURIDAD ACTIVA */
+  --seccion-29-end: #94D2BD;
+  --seccion-30-start: #E9D8A6; /* Amarillo claro - SEGURIDAD PASIVA */
+  --seccion-30-end: #EE9B00;
+  --seccion-31-start: #CA6702; /* Naranja - SEGURIDAD PREVENTIVA */
+  --seccion-31-end: #BB3E03;
+  --seccion-32-start: #AE2012; /* Rojo oscuro - SISTEMAS ADAS */
+  --seccion-32-end: #9B2226;
+  --seccion-33-start: #AE2012; /* Rojo oscuro - COMPORTAMIENTO EN ACCIDENTE */
+  --seccion-33-end: #BB3E03;
+  --seccion-34-start: #CA6702; /* Naranja - MECÁNICA */
+  --seccion-34-end: #EE9B00;
+  --seccion-35-start: #E9D8A6; /* Amarillo claro - TÉCNICAS CONDUCCIÓN */
+  --seccion-35-end: #94D2BD;
+  --seccion-36-start: #0A9396; /* Turquesa - DISTINTIVOS MEDIOAMBIENTALES */
+  --seccion-36-end: #005F73;
 }
 
 /* ===== RESET Y BASE ===== */
@@ -1127,4 +1127,498 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--primary);
+}
+
+/* ===== ESTILOS ESPECÍFICOS PARA LA INTRODUCCIÓN EN EL ÁRBOL ===== */
+
+/* Contenedor del árbol (para versión de introducción simple) */
+.tree-container-simple {
+  background: white;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  margin-top: 20px;
+}
+
+/* Item del tema INTRODUCCIÓN */
+.tree-item {
+  border: 2px solid #e0e0e0;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.tree-item.completed {
+  border-color: var(--success);
+  background-color: rgba(76, 175, 80, 0.05);
+}
+
+.tree-item.active {
+  border-color: var(--primary);
+  box-shadow: 0 5px 15px rgba(38, 101, 140, 0.1);
+}
+
+/* Cabecera del tema */
+.tree-item-header {
+  padding: 15px 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  background: white;
+  transition: background 0.3s;
+}
+
+.tree-item-header:hover {
+  background: #f5f5f5;
+}
+
+.tree-item-header h3 {
+  margin: 0;
+  flex-grow: 1;
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.tree-item.completed .tree-item-header h3 {
+  color: var(--success);
+}
+
+.tree-item-header i {
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
+
+.tree-item.completed .tree-item-header i {
+  color: var(--success);
+}
+
+/* Badge de progreso */
+.progress-badge {
+  background: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  min-width: 60px;
+  text-align: center;
+}
+
+.tree-item.completed .progress-badge {
+  background: var(--success);
+  color: white;
+}
+
+/* Contenido del tema (se expande/contrae) */
+.tree-item-content {
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+  background: #f9f9f9;
+}
+
+.tree-item.active .tree-item-content {
+  padding: 20px;
+  max-height: 5000px; /* Suficiente para todo el contenido */
+}
+
+/* Contenido de la lección */
+.lesson-content {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.lesson-content h4 {
+  color: var(--primary);
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--primary-light);
+}
+
+/* Bloques de preguntas */
+.question-block {
+  background: #f8f9fa;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-left: 4px solid var(--primary);
+}
+
+.question-text {
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 15px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+/* Opciones de respuesta */
+.answer-option {
+  background: white;
+  border: 2px solid #e9ecef;
+  border-radius: 8px;
+  padding: 12px 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.answer-option:hover {
+  background: #f1f3f4;
+  transform: translateX(5px);
+}
+
+.answer-option.correct {
+  background: #d4edda;
+  border-color: #c3e6cb;
+  color: #155724;
+}
+
+.answer-option.incorrect {
+  background: #f8d7da;
+  border-color: #f5c6cb;
+  color: #721c24;
+}
+
+.answer-explanation {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 8px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  background: rgba(0,0,0,0.03);
+  border-left: 3px solid;
+  display: none;
+}
+
+.answer-option.correct .answer-explanation {
+  display: block;
+  border-left-color: #28a745;
+  background: rgba(40, 167, 69, 0.05);
+}
+
+.answer-option.incorrect .answer-explanation {
+  display: block;
+  border-left-color: #dc3545;
+  background: rgba(220, 53, 69, 0.05);
+}
+
+/* Para mostrar explicación al pasar el ratón */
+.answer-option:hover .answer-explanation {
+  display: block;
+  border-left-color: var(--primary-light);
+}
+
+/* ===== ANIMACIONES PARA LA INTRODUCCIÓN ===== */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tree-item.active .tree-item-content {
+  animation: slideDown 0.3s ease;
+}
+
+.question-block {
+  animation: fadeIn 0.5s ease forwards;
+  animation-delay: calc(var(--i) * 0.1s);
+}
+
+/* ===== RESPONSIVE PARA LA INTRODUCCIÓN ===== */
+@media (max-width: 768px) {
+  .tree-item-header {
+    padding: 12px 15px;
+  }
+  
+  .tree-item-header h3 {
+    font-size: 1rem;
+  }
+  
+  .tree-item-content {
+    padding: 0 15px;
+  }
+  
+  .tree-item.active .tree-item-content {
+    padding: 15px;
+  }
+  
+  .lesson-content {
+    padding: 15px;
+  }
+  
+  .question-block {
+    padding: 12px;
+  }
+  
+  .answer-option {
+    padding: 10px 12px;
+  }
+  
+  .answer-explanation {
+    font-size: 0.8rem;
+    padding: 6px 10px;
+  }
+}
+
+/* ===== ANIMACIONES PARA EL MODAL DEMO ===== */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { 
+    opacity: 0; 
+    transform: translateY(30px); 
+  }
+  to { 
+    opacity: 1; 
+    transform: translateY(0); 
+  }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+/* ===== ESTILOS ESPECÍFICOS PARA EL MODAL DEMO ===== */
+.demo-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease-out;
+}
+
+.demo-modal {
+  background: white;
+  border-radius: 20px;
+  width: 90%;
+  max-width: 500px;
+  padding: 30px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  animation: slideUp 0.4s ease-out;
+}
+
+.demo-modal-header {
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: white;
+  padding: 20px;
+  border-radius: 15px 15px 0 0;
+  margin: -30px -30px 20px -30px;
+  text-align: center;
+}
+
+.demo-modal-header h3 {
+  margin: 0;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.demo-modal-body {
+  padding: 10px 0;
+}
+
+.demo-question {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 25px;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0 10px;
+}
+
+.demo-options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 25px;
+}
+
+.demo-option {
+  background: #f8f9fa;
+  border: 2px solid #e9ecef;
+  border-radius: 12px;
+  padding: 15px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.demo-option:hover {
+  background: #e9ecef;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.demo-option.selected {
+  border-color: var(--primary);
+  background: var(--secondary);
+  box-shadow: 0 0 0 3px rgba(38, 101, 140, 0.2);
+}
+
+.option-number {
+  background: #6c757d;
+  color: white;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  flex-shrink: 0;
+  transition: background 0.2s;
+}
+
+.demo-option.selected .option-number {
+  background: var(--primary);
+  animation: pulse 0.3s ease;
+}
+
+.option-text {
+  flex: 1;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.demo-modal-footer {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.demo-btn {
+  padding: 14px 30px;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex: 1;
+}
+
+.demo-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.demo-btn:active {
+  transform: translateY(0);
+}
+
+.demo-btn-accept {
+  background: linear-gradient(135deg, #4CAF50, #2E7D32);
+  color: white;
+}
+
+.demo-btn-accept:hover {
+  box-shadow: 0 5px 15px rgba(76, 175, 80, 0.3);
+}
+
+.demo-btn-accept:disabled {
+  background: #cccccc;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.demo-btn-cancel {
+  background: #f8f9fa;
+  color: #6c757d;
+  border: 2px solid #dee2e6;
+}
+
+.demo-btn-cancel:hover {
+  background: #e9ecef;
+}
+
+.demo-feedback {
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+  display: none;
+  animation: fadeIn 0.5s ease;
+}
+
+.demo-feedback.correct {
+  background: #e8f5e9;
+  border-left: 5px solid #4CAF50;
+  color: #2e7d32;
+}
+
+.demo-feedback.incorrect {
+  background: #ffebee;
+  border-left: 5px solid #f44336;
+  color: #c62828;
+}
+
+/* ===== RESPONSIVE PARA EL MODAL ===== */
+@media (max-width: 768px) {
+  .demo-modal {
+    width: 95%;
+    padding: 20px;
+  }
+  
+  .demo-modal-header {
+    padding: 15px;
+    margin: -20px -20px 15px -20px;
+  }
+  
+  .demo-modal-header h3 {
+    font-size: 18px;
+  }
+  
+  .demo-question {
+    font-size: 16px;
+  }
+  
+  .demo-option {
+    padding: 12px;
+  }
+  
+  .option-number {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+  
+  .demo-btn {
+    padding: 12px 20px;
+    font-size: 15px;
+  }
+  
+  .demo-modal-footer {
+    flex-direction: column;
+  }
 }
